@@ -1,9 +1,16 @@
 ---
-title: 'Contact'
-permalink: '/contact/index.html'
-layout: 'layouts/contact.njk'
+layout: layouts/contact.njk
+title: Contact
+permalink: /contact/index.html
 ---
+**Business Hours**
 
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
+* **Monday-Friday:** 11 am to 9 pm
+* **Saturday:** 11 am to 9 pm
+* **Sunday:** 11 am to 9 pm
 
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+**Mailing Address**
+
+Beechwood Swim Club, Inc.\
+P.O. Box 17066
+Fort Mitchell, KY 41017
