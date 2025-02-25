@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Amenities
+title: Club Amenities
 permalink: /membership/club-amenities.html
 ---
 As a member of Beechwood Swim Club, the following amenities are available for you to enjoy:
